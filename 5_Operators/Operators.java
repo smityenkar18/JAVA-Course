@@ -31,6 +31,7 @@ public class Operators {
        
        int result = num1++;            //(Post-Increment) -> *First it will fetch the value of num and then increment
        System.out.println(result);      // Result -> 7
+       System.out.println(num1);
          
     }
 }
