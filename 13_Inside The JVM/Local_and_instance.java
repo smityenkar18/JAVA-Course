@@ -76,7 +76,7 @@ class Calculator{
 public class Local_and_instance {
     public static void main(String[] args) {
         
-        int data = 10;                            // local Variable
+        //int data = 10;                            // local Variable
         System.out.println("Static Keyword ! ");
         
         Calculator calculator = new Calculator();

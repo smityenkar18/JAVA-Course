@@ -1,0 +1,4 @@
+Mutable - can be changed
+Ummutable - unchanged.
+
+for Mutable String we can use String Buffer.
