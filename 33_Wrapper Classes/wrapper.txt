@@ -1,0 +1,9 @@
+Wrapper Classes
+Each primitive type in the java we have a class for it,
+
+Primitive Type               (class) -> This class extends the Object class
+int              --->        Integer
+char             --->        Character
+double           --->        Double
+
+

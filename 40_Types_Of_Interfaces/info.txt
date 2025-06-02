@@ -1,0 +1,5 @@
+Types of Interfaces
+
+- Normal-------------------->have 2 or more methods
+- Functional/ SAM ----------> SAM (single abstract method) interface or Functional interface
+- Marker interface --------> Which has no methods. blank interface 

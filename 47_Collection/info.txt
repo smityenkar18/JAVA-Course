@@ -1,0 +1,6 @@
+ 
+ Collection API  -------> Concept   (Makes task simple , in Data Structure)
+ Collection      -------> Interface
+ Collections     -------> Class (WHICH HAS MULTIPLE METHOD TO WORK WITH)
+ 
+ 

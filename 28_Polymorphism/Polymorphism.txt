@@ -1,0 +1,34 @@
+Polymorphism- Poly-> Many and morphism -> Behaviour
+
+There is something which behaves differently in different situation
+
+In the World of OOPS , the same object or reference will have different behaviour based on how we create the instance of it ?
+
+Types:
+- Compile Time Polymorphism (Early Binding)
+- Run Time Polymorphism     (Late Binding)
+
+** Overloading is compile time.
+ 
+ ex: if we have 2 methods 
+  
+     add(int,int)
+     add(int,int,int)
+     
+     Now which method must be executed will be decided at Compile time.
+     
+** Overriding at Run Time.
+
+ex:  
+    class A{
+        
+        add(int,int)
+    }
+    
+    class B{
+        add(int,int)
+    }
+    
+    Now which method would be executed [add in A or add in B ] is decided at Run Time.
+    so it is called Run Time Polymorphism ie. Method Overriding.
+     

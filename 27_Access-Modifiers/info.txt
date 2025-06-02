@@ -1,0 +1,5 @@
+Use of Modifiers:
+-Try to make classes Public
+-we cannot have 2 public classes in the same file.
+-Try to keep instance variable Private
+-Methods will be public . if to be used in the subclass use : Protected
